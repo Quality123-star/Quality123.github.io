@@ -7,3 +7,5 @@ This repository is built step by step in the tutorial.
 This is good way to learn
 
 This is another change done
+
+I don't want to use index.html
